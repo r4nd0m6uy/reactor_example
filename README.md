@@ -1,5 +1,6 @@
-This source code was written to illustrate an article about the reactor pattern
-for my blog.
+This source code was written to illustrate an 
+[article](https://www.r4nd0m6uy.ch/event-driven-programming-with-the-reactor-pattern.html)
+about the reactor pattern for my blog.
 
 # License
 ```cpp
